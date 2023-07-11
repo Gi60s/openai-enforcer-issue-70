@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "openapi-enforcer": "^1.10.1"
+    "openapi-enforcer": "^1.22.3"
   }
 }
